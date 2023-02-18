@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CafeteriaPrueba">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/CafeteriaPruebaOriginal/CafeteriaPrueba.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
